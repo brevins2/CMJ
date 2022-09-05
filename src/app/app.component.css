@@ -1,0 +1,25 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+mat-toolbar {
+    background-color: #2b3fb4;
+    height: 75px;
+    color: #fff;
+}
+
+.profile {
+    border-radius: 30px;
+    width: 60px;
+}
+
+.email {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.footer {
+    text-align: center;
+}
