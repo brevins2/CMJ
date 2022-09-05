@@ -1,3 +1,5 @@
+/* toolbar/heading styles */
+
 .example-spacer {
     flex: 1 1 auto;
 }
@@ -19,6 +21,30 @@ mat-toolbar {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
+
+
+/* body stylings */
+
+.body {
+    margin: 6px;
+    display: flex;
+}
+
+.image {
+    width: 30%;
+}
+
+.profession {
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.profile-me {
+    border-radius: 5px;
+}
+
+
+/* footer styling */
 
 .footer {
     text-align: center;
