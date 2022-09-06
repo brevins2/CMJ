@@ -1,30 +1,3 @@
-/* toolbar/heading styles */
-
-.example-spacer {
-    flex: 1 1 auto;
-}
-
-mat-toolbar {
-    background-color: #2b3fb4;
-    height: 75px;
-    color: #fff;
-}
-
-.profile {
-    border-radius: 30px;
-    width: 60px;
-}
-
-.email {
-    text-decoration: none;
-    color: #fff;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-}
-
-
-/* body stylings */
-
 .body {
     margin: 6px;
     display: flex;
@@ -41,11 +14,4 @@ mat-toolbar {
 
 .profile-me {
     border-radius: 5px;
-}
-
-
-/* footer styling */
-
-.footer {
-    text-align: center;
 }

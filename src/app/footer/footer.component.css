@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;
+}
+
+.social-media {
+    text-align: center;
+    padding: 10px;
+}
+
+.social-media a {
+    padding: 4px;
+    text-decoration: none;
+}
